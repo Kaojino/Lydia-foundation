@@ -1,0 +1,26 @@
+{
+    "name": "Lydia Token List",
+    "timestamp": "2025-05-30T00:00:00+00:00",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://yourdomain.com/lydia-token-logo-200x200.png",
+    "keywords": [
+        "lydia",
+        "crypto",
+        "token"
+    ],
+    "tokens": [
+        {
+            "name": "Lydia Token",
+            "symbol": "LYDIA",
+            "address": "0x6b088d3859f4ca3ea523da5841f677a8ec83e400",
+            "decimals": 18,
+            "chainId": 56,
+            "logoURI": "https://yourdomain.com/lydia-token-logo-200x200.png"
+        }
+    ]
+}
